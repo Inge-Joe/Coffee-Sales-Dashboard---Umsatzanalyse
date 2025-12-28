@@ -1,4 +1,4 @@
-# Coffee-Sales-Dashboard---Umsatzanalyse
+# Coffee-Sales-Dashboard--Umsatzanalyse
 Das Dashboard dient der strukturierten Analyse der Umsätze im Kaffeeverkauf für den Zeitraum von 2019 bis 2022. Analysiert werden zeitliche Entwicklungen, Produktsegmente sowie die regionale Umsatzverteilung. Die Auswertung erfolgt auf aggregierter Ebene und ist interaktiv über Filter steuerbar.
 
 ## 1. Analyseziele
@@ -87,7 +87,7 @@ Das Dashboard dient der strukturierten Analyse der Umsätze im Kaffeeverkauf fü
 - **Treuekarten-Status:**  
   Nicht-Mitglieder generieren höhere Gesamtumsätze; der durchschnittliche Transaktionswert von Mitgliedern liegt jedoch nur geringfügig unter dem von Nicht-Mitgliedern.
 
-## 🎯 Dashboard Endergebnis
+## 7. Dashboard Endergebnis
 
 ![Dashboard-Endergebnis](./images/dashboard.png)
 
